@@ -10,3 +10,24 @@ Basic end to end Data Science project
 4. logging setup: Create logging functionality inside src/__init__.py
 
 5. common utils : define common utility functions.
+
+### Workflows - ML pipeline
+
+1. Data Ingestion
+2. Data validation
+3. Data Transformation
+4. Model Trainer
+5. Model evaluation
+
+Modular coding - 
+
+## Workflows 
+
+1. Update config.yaml - Update input details required for data ingestion from different sources
+2. Update schema.yaml - Update in data validation
+3. Update params.yaml - Used for providing parameters to model
+4. Update teh entity - 
+5. Update the configuration manager in src config - 
+6. Update the components - 
+7. Update the pipeline -
+8. Update the main.py -
