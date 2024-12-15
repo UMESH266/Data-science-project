@@ -7,4 +7,6 @@ Basic end to end Data Science project
 
 3. template.py : Generic project structure code.
 
-4. logging setup: Create logging setup inside src/__init__.py 
+4. logging setup: Create logging functionality inside src/__init__.py
+
+5. common utils : define common utility functions.
