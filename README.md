@@ -5,4 +5,6 @@ Basic end to end Data Science project
 
 2. requirements : Create requirements.txt file and add the libraries required for the project.
 
-3. template.py : Generic project structure 
+3. template.py : Generic project structure code.
+
+4. logging setup: Create logging setup inside src/__init__.py 

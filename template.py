@@ -5,7 +5,7 @@ import logging
 # Logging info
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = 'Data-science-project'
+project_name = 'datascience'
 
 list_of_files=[
     ".github/workflows/.gitkeep",
@@ -27,7 +27,7 @@ list_of_files=[
     "setup.py", # Setup for pypy packaging
     "research/research.ipynb", # Notebook to explore and research
     "templates/index.html", # Flask integration with html
-    # "requirement.txt"
+    # "requirements.txt"
 ]
 
 for filepath in list_of_files:
