@@ -15,7 +15,7 @@ Basic end to end Data Science project
 
 1. Data Ingestion
 2. Data validation
-3. Data Transformation
+3. Data Transformation -- Feature engineering, Data preprocessing
 4. Model Trainer
 5. Model evaluation
 
